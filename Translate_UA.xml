@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTranslate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Translate key="Private Game" translate="Приватна Гра" />
+  <Translate key="Public Game" translate="Публічна Гра" />
+  <Translate key="join friend" translate="Гра з друзями" />
+  <Translate key="I understand" translate="Пачув" />
+  <Translate key="Warning" translate="Попердження" />
+  <Translate key="While playing with random players you&#xA;&#xA;may come across hackers or really&#xA;&#xA;mean people..." translate="Попердження" />
+  <Translate key="HAHA YES! :)" translate="Хаха так! :)" />
+  <Translate key="haha yes! :)" translate="Хаха так! :)" />
+  <Translate key="haha yes!:)" translate="Хаха так! :)" />
+  <Translate key="haha yes!" translate="Хаха так! :)" />
+  <Translate key="HAHA YES!" translate="Хаха так! :)" />
+  <Translate key="yes" translate="Так" />
+  <Translate key="no" translate="Ні" />
+  <Translate key="Settings" translate="Налаштування" />
+  <Translate key="Gameplay" translate="Ігровий процес" />
+  <Translate key="Graphics" translate="Графіка" />
+  <Translate key="Audio" translate="Аудіо" />
+  <Translate key="Controls" translate="Управління" />
+  <Translate key="Back" translate="Назад" />
+  <Translate key="controls" translate="управління" />
+  <Translate key="RESET GAMEPLAY SETTINGS?" translate="ПІДТВЕРДІТЬ ДІЮ" />
+  <Translate key="Reset all gameplay settings to default properties?" translate="Скинути усе&#xA;&#xA;до початкових налаштувань?" />
+  <Translate key="RESET TO DEFAULT SETTINGS" translate="Скинути налаштування" />
+  <Translate key="RESET CONTROLS?" translate="ПІДТВЕРДІТЬ ДІЮ" />
+  <Translate key="Reset all controls to default settings?" translate="Скинути усе&#xA;&#xA;до початкових налаштувань?" />
+  <Translate key="MOVEMENT" translate="РУХ" />
+  <Translate key="MOVE FORWARD" translate="РУХ ВПЕРЕД" />
+  <Translate key="move left" translate="РУХ ВЛІВО" />
+  <Translate key="MOVE BACK" translate="РУХ НАЗАД" />
+  <Translate key="Move RIGHT" translate="РУХ ВПРАВО" />
+  <Translate key="jump" translate="стрибок" />
+  <Translate key="crouch" translate="присідати" />
+  <Translate key="hold" translate="утримувати" />
+  <Translate key="sprint" translate="бігти" />
+  <Translate key="TUMBLE" translate="ЖБУРНУТИ СЕБЕ" />
+  <Translate key="GRABBING" translate="ВЗЯТИ" />
+  <Translate key="grab" translate="взяти" />
+  <Translate key="rotate&#xA;" translate="повернути" />
+  <Translate key="ROTATE&#xA;" translate="ПОВЕРНУТИ" />
+  <Translate key="push" translate="штовхати" />
+  <Translate key="pull" translate="тягнути" />
+  <Translate key="OTHER" translate="ІНШЕ" />
+  <Translate key="map&#xA;" translate="мапа" />
+  <Translate key="interact&#xA;" translate="взаємодія" />
+  <Translate key="INTERACT" translate="ВЗАЄМОДІЯ" />
+  <Translate key="inventory 3" translate="місце 3" />
+  <Translate key="inventory 2" translate="місце 2" />
+  <Translate key="inventory 1" translate="місце 1" />
+  <Translate key="chat" translate="чат" />
+  <Translate key="CONFIRM" translate="ПІДТВЕРДИТИ" />
+  <Translate key="BACK" translate="НАЗАД" />
+  <Translate key="MENU" translate="МЕНЮ" />
+  <Translate key="confirm&#xA;" translate="підтвердити" />
+  <Translate key="back&#xA;" translate="назад" />
+  <Translate key="menu&#xA;" translate="меню" />
+  <Translate key="spectate next" translate="Наступний" />
+  <Translate key="spectate previous" translate="Попередній" />
+  <Translate key="push to talk" translate="Натисни та кажи" />
+  <Translate key="Master volume" translate="Загальна" />
+  <Translate key="&lt;" translate="&lt;" />
+  <Translate key="&gt;" translate="&gt;" />
+  <Translate key="music volume" translate="музика" />
+  <Translate key="sound effects volume" translate="звукові ефекти" />
+  <Translate key="proximity voice volume" translate="голос поблизу" />
+  <Translate key="Text To speech" translate="Текст у мову" />
+  <Translate key="microphone" translate="мікрофон" />
+  <Translate key="device name" translate="назва пристрою" />
+  <Translate key="Microphone volume" translate="Мікрофон" />
+  <Translate key="Push to Talk" translate="Натисни та кажи" />
+  <Translate key="ON" translate="УВІМК" />
+  <Translate key="OFF" translate="ВИМК" />
+  <Translate key="Window Mode" translate="Режим вікна" />
+  <Translate key="Windowed" translate="У вікні" />
+  <Translate key="Vsync" translate="V-sync" />
+  <Translate key="Gamma" translate="Гамма" />
+  <Translate key="Max FPS" translate="Макс FPS" />
+  <Translate key="Light Distance" translate="Дальність світла" />
+  <Translate key="Shadow Quality" translate="Якість тіней" />
+  <Translate key="Shadow Distance" translate="Дальність тіней" />
+  <Translate key="Motion Blur" translate="Замилювання" />
+  <Translate key="Lens Distortion" translate="Розмиття лінз" />
+  <Translate key="Bloom" translate="Свічення" />
+  <Translate key="Chromatic Aberration" translate="Окантовка" />
+  <Translate key="Grain" translate="Зернистість" />
+  <Translate key="Glitch Loop" translate="Глітч" />
+  <Translate key="Pixelation" translate="Пікселізація" />
+  <Translate key="Tips" translate="Підказки" />
+  <Translate key="Player Names" translate="Імена гравців" />
+  <Translate key="Aim Sensitivity" translate="Чутливість" />
+  <Translate key="Camera Smoothing" translate="Згладжування" />
+  <Translate key="Camera Shake" translate="Тремтіння" />
+  <Translate key="Camera Noise" translate="Шум" />
+  <Translate key="Camera Animation" translate="Анімація камери" />
+  <Translate key="pop up" translate="сповіщення" />
+  <Translate key="YES" translate="ТАК" />
+  <Translate key="NO" translate="НІ" />
+  <Translate key="Are you sure?&#xA;Are you sure?&#xA;&#xA;Are you sure?" translate="Ви впевнені?&#xA;Ви впевнені?&#xA;&#xA;Ви впевнені?" />
+  <Translate key="LOADING" translate="ЗАВАНТАЖЕННЯ" />
+  <Translate key="&lt; GO BACK" translate="&lt; НАЗАД" />
+  <Translate key="SAVED GAMES" translate="ЗБЕРЕЖЕННЯ" />
+  <Translate key="Singleplayer mode" translate="Одиночна гра" />
+  <Translate key="NEW GAME" translate="НОВА ГРА" />
+  <Translate key="Saved games" translate="Збереження" />
+  <Translate key="Here's all the fun you’ve had and the opportunity to pick up right where you left off." translate="Ось усі ваші попередні ігри та можливість продовжити з того місця, де ви зупинилися." />
+  <Translate key="Team semiooeeeeeeeeeets&lt;/b&gt;" translate="Team semiooeeeeeeeeeets&lt;/b&gt;" />
+  <Translate key="BUILD NAME" translate="НОМЕР ЗБІРКИ" />
+  <Translate key="host game" translate="Створити гру" />
+  <Translate key="Tutorial" translate="Навчання" />
+  <Translate key="join game" translate="Приєднатися" />
+  <Translate key="singleplayer" translate="Одиночна гра" />
+  <Translate key="Quit game" translate="Покинути гру" />
+  <Translate key="Host a game?" translate="Створити гру?" />
+  <Translate key="The friend with the best computer&#xA;should host.&#xA;&#xA;Are you this friend?" translate="У Вас найкращий комп’ютер&#xA;&#xA;серед Вашої компанії?" />
+  <Translate key="Default" translate="Стандарт" />
+  <Translate key="toggle" translate="натиснути" />
+  <Translate key="Master Volume" translate="Загальна" />
+  <Translate key="Music Volume" translate="Музика" />
+  <Translate key="Sfx Volume" translate="Звукові ефекти" />
+  <Translate key="Proximity Voice Volume" translate="Гучн. голосу поруч" />
+  <Translate key="Text to Speech Volume" translate="Текст у мову" />
+  <Translate key="Microphone" translate="Мікрофон" />
+  <Translate key="Микрофон (Realte..." translate="Мікрофон (Realte..." />
+  <Translate key="Microphone Volume" translate="Мікрофон" />
+  <Translate key="Микрофон (Realtek High Definition Audio)" translate="Мікрофон (Realtek High Definition Audio)" />
+  <Translate key="Fullscreen" translate="Повний екран" />
+  <Translate key="Unlimited" translate="Необмежено" />
+  <Translate key="Very High" translate="Дуже висока" />
+  <Translate key="Low" translate="Низька" />
+  <Translate key="Quit Game" translate="Покинути гру" />
+  <Translate key="Close the entire application?" translate="Вже час йти?&#xA;&#xA;Ми чекаємо на Ваше повернення!" />
+  <Translate key="Start a new game?" translate="Почати нову гру?" />
+  <Translate key="Do you want to start a game?" translate="Ви хочете почати гру?" />
+  <Translate key="KING OF THE LOSERS!" translate="КОРОЛЬ НЕВДАХ!" />
+  <Translate key="&lt;sprite name=:)&gt;" translate="&lt;sprite name=:)&gt;" />
+  <Translate key="CHAT:" translate="ЧАТ:" />
+  <Translate key="EXTRACTION POINT ACTIVATED" translate="ТОЧКА&#xA;&#xA;ЗБОРУ&#xA;&#xA;АКТИВОВАНА" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; to move" translate="Використовуй &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; для руху" />
+  <Translate key="Use &lt;b&gt;&lt;u&gt;LEFT MOUSE + RIGHT MOUSE&lt;/b&gt;&lt;/u&gt; to rotate an object you are holding" translate="Використовуй &lt;b&gt;&lt;u&gt;LEFT MOUSE + RIGHT MOUSE&lt;/b&gt;&lt;/u&gt; для обертання утримуваного предмета" />
+  <Translate key="UPGRADES" translate="ПОЛІПШЕННЯ" />
+  <Translate key="STRENGTH&#xA;STAMINA" translate="СИЛА&#xA;ВИТРИВАЛІСТЬ" />
+  <Translate key="The Broken Ones:" translate="Зламані:" />
+  <Translate key="LAST LOSER STANDING!" translate="БИТВА МІЖ НЕВДАХАМИ" />
+  <Translate key="&lt;b&gt;Mission &gt; &lt;/b&gt;  Fill all extraction points with valuables" translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;  Заповніть всі точки збору цінностями" />
+  <Translate key="SWORD" translate="МЕЧ" />
+  <Translate key="POWER MODE: WEAK" translate="POWER MODE: СЛАБИЙ" />
+  <Translate key="READY" translate="ГОТОВИЙ" />
+  <Translate key="MCJANNEK STATION" translate="СТАНЦІЯ МАКДЖАННЕК" />
+  <Translate key="&lt;sprite name=message_arrow&gt;" translate="&lt;sprite name=message_arrow&gt;" />
+  <Translate key="&lt;sprite name=message&gt;" translate="&lt;sprite name=message&gt;" />
+  <Translate key="Change color" translate="Змінити колір" />
+  <Translate key="Menu" translate="Меню" />
+  <Translate key="Continue" translate="Продовжити" />
+  <Translate key="Self Destruct" translate="Вмерти?" />
+  <Translate key="Main Menu" translate="Головне Меню" />
+  <Translate key="■" translate="■" />
+  <Translate key="select color" translate="виберіть колір" />
+  <Translate key="Confirm" translate="Підтвердити" />
+  <Translate key="&lt;sprite name=!&gt;" translate="&lt;sprite name=!&gt;" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Fill the extraction point with valuables" translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Заповніть точку цінностями" />
+  <Translate key="ACTIVE" translate="АКТИВНО" />
+  <Translate key="C.A.R.T." translate="ВІЗОК" />
+  <Translate key="Mode: STRONG" translate="Утримання: СИЛЬНЕ" />
+  <Translate key="Small" translate="Маленька" />
+  <Translate key="!!!!!!!!!" translate="!!!!!!!!!" />
+  <Translate key="TAX RETURN" translate="Рахуємо гроші" />
+  <Translate key="EXTRACTING" translate="ЗБІР" />
+  <Translate key="EXTRACTION POINT COMPLETED" translate="ТОЧКА&#xA;&#xA;ЗБОРУ&#xA;&#xA;ВИКОРИСТАНА" />
+  <Translate key="&lt;sprite name=check&gt;" translate="&lt;sprite name=check&gt;" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Get back to the truck!" translate="&lt;b&gt;УВАГА &gt; &lt;/b&gt;Поверніться у фургон!" />
+  <Translate key="COMPLETED" translate="ЗАВЕРШЕНО" />
+  <Translate key="&lt;sprite name=truck&gt;" translate="&lt;sprite name=truck&gt;" />
+  <Translate key="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;" translate="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;" />
+  <Translate key="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;&lt;sprite name=road&gt;" translate="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;&lt;sprite name=road&gt;" />
+  <Translate key="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;&lt;sprite name=road&gt;&lt;sprite name=?&gt;" translate="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;&lt;sprite name=road&gt;&lt;sprite name=?&gt;" />
+  <Translate key="STARTING ENGINE" translate="ЗАВОДИМОСЯ" />
+  <Translate key="SHOP" translate="МАГАЗИН" />
+  <Translate key="SERVICE STATION" translate="СЕРВІСНА СТАНЦІЯ" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Buy stuff in the shop" translate="&lt;b&gt;УВАГА &gt; &lt;/b&gt;Купить щось у магазині" />
+  <Translate key="TAX$$$$$$" translate="TAX$$$$$$" />
+  <Translate key="$TAXTAX$$" translate="$TAXTAX$$" />
+  <Translate key="Inflatable Hammer" translate="Надувний молоток" />
+  <Translate key="Grenade" translate="Граната" />
+  <Translate key="$$$$TAX$$" translate="$$$$TAX$$" />
+  <Translate key="Stun Grenade" translate="Оглушальна граната" />
+  <Translate key="Energy Crystal" translate="Енергетичний кристал" />
+  <Translate key="POCKET C.A.R.T." translate="МАЛЕНЬКИЙ ВІЗОК" />
+  <Translate key="Map Player Count Upgrade" translate="Поліпшення карти - показує живих гравців" />
+  <Translate key="Map Player Count Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Поліпшення карти - показує живих гравців &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Shotgun" translate="Дробовик" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; to sneak under stuff and hide." translate="Використовуй &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; щоб сховатись під об'єктами." />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Enjoy the ride, recharge stuff and GEAR UP!" translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Насолоджуйтесь поїздкою, заряджайте та ПРИГОТУЙТЕСЯ!" />
+  <Translate key="Exit to main menu?" translate="Вийти у головне меню?" />
+  <Translate key="R.E.P.O." translate="R.E.P.O." />
+  <Translate key="Multiplayer mode" translate="Многокористувацька гра" />
+  <Translate key="High" translate="Висока" />
+  <Translate key="Medium" translate="Середня" />
+  <Translate key="Very Low" translate="Дуже низька" />
+  <Translate key="DELETE SAVE" translate="ВИДАЛИТИ ЗБЕРЕЖЕННЯ" />
+  <Translate key="LOAD SAVE" translate="ЗАВАНТАЖИТИ ЗБЕРЕЖЕННЯ" />
+  <Translate key="Team semibeeeeeeeeeeeeeeeeeeeeeots" translate="Team semibeeeeeeeeeeeeeeeeeeeeeots" />
+  <Translate key="Load save?" translate="Завантажити збереження?" />
+  <Translate key="Load this save file?" translate="Завантажити це збереження?" />
+  <Translate key="SWIFTBROOM ACADEMY" translate="АКАДЕМІЯ СВІФБРУМА" />
+  <Translate key="LOCKED" translate="ЗАБЛОКОВАНО" />
+  <Translate key="TAX$$TAX$" translate="TAX$$TAX$" />
+  <Translate key="TAXTAX$$$" translate="TAXTAX$$$" />
+  <Translate key="Off" translate="Вимк" />
+  <Translate key="GAME OVER" translate="ГРА ЗАКІНЧЕНА" />
+  <Translate key="DISPOSAL ARENA" translate="АРЕНА УТИЛІЗАЦІЇ" />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; to move." translate="Використовуй &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt;щоб рухатись." />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; on your keyboard until the progress bar is filled!" translate="Використовуй &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; поки смуга прогресу не заповниться!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Move to fill the progress bar" translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Рухайся,&#xA;&#xA;щоб заповнити смугу прогресу." />
+  <Translate key="Good job! &lt;sprite name=creepycrying&gt;" translate="Хороша робота! &lt;sprite name=creepycrying&gt;" />
+  <Translate key="Press &lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt; to do jumps until the progress bar is filled!" translate="Використовуй &lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt; поки смуга прогресу не заповниться!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Jump to fill the progress bar" translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Стрибай,&#xA;&#xA;щоб заповнити смугу прогресу." />
+  <Translate key="Press &lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt; to jump." translate="Натисни &lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt; для стрибка." />
+  <Translate key="Hold &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; and use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; until the progess is filled!" translate="Утримуй &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; і використовуй &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt;. &#xA;&#xA;Поки смуга прогресу не заповниться!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Sneak to fill the progress bar" translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Підкрадись,&#xA;&#xA;щоб заповнити смугу прогресу." />
+  <Translate key="Press &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; to sneak. Monsters are less likely to see you." translate="Утримуй &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; щоб крастися.&#xA;&#xA;Монстри з меншою ймовірністю тебе помітять." />
+  <Translate key="Hold &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; and walk in under a prop, stay there until you fill the progress bar!" translate="Утримуй &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; і крадись під ліжко.&#xA;&#xA;Залишайся там, поки смуга прогресу не заповниться!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Hide to fill the progress bar" translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Сховайся під ліжком,&#xA;&#xA;щоб заповнити смугу прогресу." />
+  <Translate key="Hold &lt;u&gt;&lt;b&gt;LEFT SHIFT&lt;/b&gt;&lt;/u&gt; and use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; to sprint until you filled the progress bar! If the energy runs out, wait for it to regenerate!" translate="Утримуй &lt;u&gt;&lt;b&gt;LEFT SHIFT&lt;/b&gt;&lt;/u&gt; і використовуй &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; для бігу, &#xA;&#xA;поки смуга прогресу не заповниться!&#xA;&#xA;Якщо енергія закінчится, зачекай, вона відновиться!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Sprint to fill the progress bar" translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Біжи,&#xA;&#xA;щоб заповнити смугу прогресу." />
+  <Translate key="Hold down &lt;u&gt;&lt;b&gt;LEFT SHIFT&lt;/b&gt;&lt;/u&gt; to sprint. This drains your energy." translate="Утримуй &lt;u&gt;&lt;b&gt;LEFT SHIFT&lt;/b&gt;&lt;/u&gt; щоб бігти. Це виснажує твою енергію." />
+  <Translate key="Run (&lt;u&gt;&lt;b&gt;LEFT SHIFT&lt;/b&gt;&lt;/u&gt;), jump (&lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt;) and press &lt;u&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/u&gt; to throw yourself. Do it until you fill the progress bar!" translate="Біжи (&lt;u&gt;&lt;b&gt;LEFT SHIFT&lt;/b&gt;&lt;/u&gt;), стрибай (&lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt;) і використовуй &lt;u&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/u&gt; щоб жбурнути себе.&#xA;&#xA;Роби це, поки смуга прогресу не заповниться!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Run, jump and fall to fill the progress bar" translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Біжи, стрибай та жбурляй себе,&#xA;&#xA;щоб заповнити смугу прогресу." />
+  <Translate key="Run and press &lt;u&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/u&gt; to fall with style. Jumping also helps!" translate="Біжи і використовуй &lt;u&gt;&lt;b&gt;Q&lt;/b&gt;&lt;/u&gt; щоб жбурнути себе. Стрибки допоможуть зробити сальто!" />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) and hold it until you fill the progress bar!" translate="Наведись на предмет і утримуй (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) &#xA;&#xA;поки смуга прогресу не заповниться!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Carry that thing to fill the progress bar" translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Несіть предмет,&#xA;&#xA;щоб заповнити смугу прогресу." />
+  <Translate key="Grab objects using &lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;." translate="Використовуй &lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt; щоб схопити предмет." />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) an item and use &lt;u&gt;&lt;b&gt;MOUSE SCROLL&lt;/b&gt;&lt;/u&gt; to alter the distance of the item you grabbed!" translate="Використовуй (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) щоб взяти предмет і використай &lt;u&gt;&lt;b&gt;MOUSE SCROLL&lt;/b&gt;&lt;/u&gt;&#xA;&#xA;щоб змінити відстань предмета, який ви схопили!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Alter the distance of a grabbed item" translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Змініть відстань предмета,&#xA;&#xA;щоб заповнити смугу прогресу." />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;MOUSE SCROLL&lt;/b&gt;&lt;/u&gt; to alter the distance of grabbed objects." translate="Використовуй &lt;u&gt;&lt;b&gt;MOUSE SCROLL&lt;/b&gt;&lt;/u&gt; щоб змінити відстань схоплених предметів" />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) and hold it while you press &lt;u&gt;&lt;b&gt;MOUSE RIGHT&lt;/b&gt;&lt;/u&gt; and move your aim to rotate it. Rotate until you fill the progress bar!" translate="Використовуй (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) щоб взяти предмет і утримуй (&lt;u&gt;&lt;b&gt;MOUSE RIGHT&lt;/b&gt;&lt;/u&gt;)&#xA;&#xA; щоб обертати його (рухай мишкою).&#xA;&#xA;Обертай предмет, поки смуга прогресу не заповниться!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Rotate stuff to fill the progress bar." translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Обертай предмети, &#xA;&#xA;щоб заповнити смугу прогресу." />
+  <Translate key="Rotate grabbed objects using &lt;u&gt;&lt;b&gt;MOUSE RIGHT&lt;/b&gt;&lt;/u&gt;." translate="Обертай схоплені предмети, використовуючи &lt;u&gt;&lt;b&gt;MOUSE RIGHT&lt;/b&gt;&lt;/u&gt;." />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) the ball and toggle it on and off using &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt; until you fill the progress bar!" translate="Використовуй (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) щоб взяти сферe і вмикай та вимикай її,&#xA;&#xA; використовуючи &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt; поки смуга прогресу не заповниться!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Toggle that thing on and off." translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Вмикай та вимикаюй сферу,&#xA;&#xA;щоб заповнити смугу прогресу." />
+  <Translate key="Grab and press &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt; to toggle items." translate="Схопи і використовуй &lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt; щоб перемикати предмети." />
+  <Translate key="Zero Gravity Orb &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Сфера нульової гравітації &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Fill your entire inventory." translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Заповніть увесь інвентар,&#xA;&#xA;щоб заповнити смугу прогресу." />
+  <Translate key="Grab an Item and use &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt; to put it in your inventory." translate="Візьми предмет і натисни &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt;, щоб покласти його в інвентар." />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) an item, hold it and press &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt;. Fill all spots in your inventory to complete the progress bar!" translate="Використовуй &lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt; на предмет, утримуй його і натисни &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt;. &#xA;&#xA; Заповніть усі місця в інвентарі, щоб завершити смугу прогресу." />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt; to take items out of your inventory." translate="Використовуй &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt; щоб вилучити предмети з інвентарю." />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt; and empty all spots to fill the progress bar!" translate="Використовуй &lt;u&gt;&lt;b&gt;1&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;2&lt;/b&gt;&lt;/u&gt;/&lt;u&gt;&lt;b&gt;3&lt;/b&gt;&lt;/u&gt; щоб звільнити усі місця,&#xA;&#xA; поки смуга прогресу не заповниться!" />
+  <Translate key="Shockwave Mine &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Ударно-хвильова міна &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Stun Grenade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Оглушальна граната &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Roll Drone &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Роликовий дрон &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Large Health Pack (100) &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Велика аптечка (100) &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Medium Health Pack (50) &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Середня аптечка (50) &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Small Health Pack (25) &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Мала аптечка (25) &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Frying Pan" translate="Сковорідка" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Empty your entire inventory." translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Очистіть увесь інвентар,&#xA;&#xA;щоб заповнити смугу прогресу." />
+  <Translate key="Hold down &lt;u&gt;&lt;b&gt;TAB&lt;/b&gt;&lt;/u&gt; and view it until you have filled the progress bar!" translate="Утримуй &lt;u&gt;&lt;b&gt;TAB&lt;/b&gt;&lt;/u&gt; поки смуга прогресу не заповниться!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Check the map." translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Оглянь мапу,&#xA;&#xA;щоб заповнити смугу прогресу." />
+  <Translate key="Use &lt;u&gt;&lt;b&gt;TAB&lt;/b&gt;&lt;/u&gt; to view the map. The map is &lt;b&gt;&lt;u&gt;important&lt;/b&gt;&lt;/u&gt; for navigation." translate="Використовуй &lt;u&gt;&lt;b&gt;TAB&lt;/b&gt;&lt;/u&gt; щоб переглянути мапу. Мапа &lt;b&gt;&lt;u&gt;важлива&lt;/b&gt;&lt;/u&gt; для навігації." />
+  <Translate key="Grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) the C.A.R.T. by the handle and walk around with it until you have filled the progress bar!" translate="Візьми (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) ВІЗОК за ручку та рухайся із ним,&#xA;&#xA;поки смуга прогресу не заповниться!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Walk around with the C.A.R.T. a little." translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Прогуляйтеся з ВІЗКОМ трохи,&#xA;&#xA;щоб заповнити смугу прогресу." />
+  <Translate key="This is a C.A.R.T. Grab it by the handle." translate="Це ВІЗОК. Візьми його за ручку." />
+  <Translate key="Mode: WEAK" translate="Утримання: СЛАБКЕ" />
+  <Translate key="Put three items into the C.A.R.T." translate="Покладіть три предмети у ВІЗОК" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Fill the C.A.R.T. with valuables." translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Наповніть ВІЗОК цінними речами,&#xA;&#xA;щоб заповнити смугу прогресу." />
+  <Translate key="Fill C.A.R.T.s with valuables. C.A.R.T.s are &lt;b&gt;&lt;u&gt;important&lt;/b&gt;&lt;/u&gt; for carrying more stuff." translate="Наповніть ВІЗОК цінними речами. ВІЗОК &lt;b&gt;&lt;u&gt;важливі&lt;/b&gt;&lt;/u&gt; для перенесення більшої кількості предметів" />
+  <Translate key="HELLO! FILL THE &lt;b&gt;&lt;u&gt;EXTRACTION POINT&lt;/b&gt;&lt;/u&gt; WITH VALUABLES!" translate="Здоров! Заповни &lt;b&gt;&lt;u&gt;точку евакуації&lt;/b&gt;&lt;/u&gt; цінними предметами" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Extract the valuables." translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Вивези цінні предмети,&#xA;&#xA;щоб заповнити смугу прогресу." />
+  <Translate key="Activate and fill &lt;b&gt;&lt;u&gt;Extraction Points&lt;/b&gt;&lt;/u&gt; with valuables." translate="Активуй та заповни &lt;b&gt;&lt;u&gt;точку евакуації&lt;/b&gt;&lt;/u&gt; цінними предметами" />
+  <Translate key="$TAX$TAX$" translate="$TAX$TAX$" />
+  <Translate key="TAX$TAX$$" translate="TAX$TAX$$" />
+  <Translate key="$$TAXTAX$" translate="$$TAXTAX$" />
+  <Translate key="Walk into the truck, grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) and hold the message area on the truck screen to send a message!" translate="Зайдіть у вантажівку, використай (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) та утримуй область&#xA;&#xA;повідомлень на екрані вантажівки, щоб відправити повідомлення!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Get into the truck and send a message." translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Сядь у вантажівку&#xA;&#xA; та відправ повідомлення." />
+  <Translate key="Enter the &lt;b&gt;&lt;u&gt;truck&lt;/b&gt;&lt;/u&gt; and send a message to your boss in order to leave a level." translate="Зайдіть у &lt;b&gt;&lt;u&gt;вантажівку&lt;/b&gt;&lt;/u&gt; та відправте повідомлення своєму босу, щоб покинути рівень." />
+  <Translate key="Self Destruction" translate="Вмерти?" />
+  <Translate key="Is that really so?" translate="Це реально те, що тобі потрібно?" />
+  <Translate key="Leave Lobby" translate="Покинути лобі" />
+  <Translate key="Are you sure?" translate="Ви впевнені?" />
+  <Translate key="Lobby" translate="Лобі" />
+  <Translate key="Use &lt;b&gt;&lt;u&gt;T&lt;/u&gt;&lt;/b&gt; to chat" translate="Використовуй &lt;b&gt;&lt;u&gt;T&lt;/u&gt;&lt;/b&gt; для спілкування." />
+  <Translate key="start game" translate="Почати" />
+  <Translate key="player joining..." translate="Гравець приєднується..." />
+  <Translate key="invite" translate="Запросити" />
+  <Translate key="Leave" translate="Вийти" />
+  <Translate key="Press &lt;u&gt;&lt;b&gt;T&lt;/b&gt;&lt;/u&gt; to chat" translate="Використовуй &lt;b&gt;&lt;u&gt;T&lt;/u&gt;&lt;/b&gt; для спілкування." />
+  <Translate key="AxelPoxel" translate="AxelPoxel" />
+  <Translate key="Element Name" translate="Назва елемента" />
+  <Translate key="Start Game" translate="Почати" />
+  <Translate key="Everyone ready?&#xA;&#xA;Once the game is started&#xA;new players can not join." translate="Усі готові?&#xA;&#xA;Після початку гри&#xA;&#xA;нові гравці не зможуть приєднатися." />
+  <Translate key="HEADMAN MANOR" translate="САДИБА ГЕТЬМАНА" />
+  <Translate key="Donk E Kong" translate="Донк Е Конг" />
+  <Translate key="HEALTH&#xA;STAMINA&#xA;LAUNCH&#xA;SPEED&#xA;RANGE" translate="Здоров'я&#xA;Витривалість&#xA;Жбурляння&#xA;Швидкість&#xA;Дальність" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Find the next extraction point" translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Знайди наступну точку збору" />
+  <Translate key="HEALTH" translate="Здоров'я" />
+  <Translate key="HEALTH&#xA;STAMINA" translate="Здоров'я&#xA;Витривалість" />
+  <Translate key="HEALTH&#xA;STAMINA&#xA;LAUNCH" translate="Здоров'я&#xA;Витривалість&#xA;Запуск" />
+  <Translate key="HEALTH&#xA;STAMINA&#xA;LAUNCH&#xA;SPEED" translate="Здоров'я&#xA;Витривалість&#xA;Запуск&#xA;Швидкість" />
+  <Translate key="Large Health Pack (100)" translate="Велика аптечка (100)" />
+  <Translate key="Medium Health Pack (50)" translate="Середня аптечка (50)" />
+  <Translate key="Small Health Pack (25)" translate="Мала аптечка (25)" />
+  <Translate key="Stun Mine" translate="Оглушальна міна" />
+  <Translate key="Extraction Tracker" translate="Трекер точки збору" />
+  <Translate key="Explosive Mine" translate="Вибухова міна" />
+  <Translate key="Shockwave Grenade" translate="Ударно-хвильова граната" />
+  <Translate key="UncleDan" translate="Дядько Ден" />
+  <Translate key="Recharge Drone" translate="Дрон підзарядки" />
+  <Translate key="Indestructible Drone" translate="Неруйнівний дрон" />
+  <Translate key="Shockwave Mine" translate="Ударно-хвильова міна" />
+  <Translate key="Extraction Tracker &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Трекер точки збору &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Grenade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Граната &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Recharge Drone &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Дрон підзарядки &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Shockwave Grenade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Ударно-хвильова граната &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Indestructible Drone &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Неруйнівний дрон &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="HITTING THE ROAD" translate="ВИРУШАЄМО В ДОРОГУ!" />
+  <Translate key="Roll Drone" translate="Роликовий дрон" />
+  <Translate key="Valuable Tracker" translate="Трекер цінних предметів" />
+  <Translate key="Valuable Tracker &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Трекер цінних предметів &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Feather Drone" translate="Легкий дрон" />
+  <Translate key="Feather Drone &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Легкий дрон &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Explosive Mine &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Вибухова міна &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Stun Mine &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Оглушальна міна &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Zero Gravity Drone" translate="Дрон нульової гравітації" />
+  <Translate key="Zero Gravity Drone &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Дрон нульової гравітації &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="SPACE" translate="ПРОБІЛ" />
+  <Translate key="CONTROL" translate="CTRL" />
+  <Translate key="LEFT SHIFT" translate="SHIFT" />
+  <Translate key="MOUSE FORWARD" translate="Кнопка миші вперед" />
+  <Translate key="MOUSE BACKWARD" translate="Кнопка миші назад" />
+  <Translate key="MOUSE LEFT" translate="Ліва кнопка миші" />
+  <Translate key="MOUSE RIGHT" translate="Права кнопка миші" />
+  <Translate key="MOUSE SCROLL" translate="Коліщатко миші" />
+  <Translate key="TAB" translate="TAB" />
+  <Translate key="ENTER" translate="Enter" />
+  <Translate key="ESCAPE" translate="Esc" />
+  <Translate key="LEVEL 1" translate="РІВЕНЬ 1" />
+  <Translate key="LEVEL 2" translate="РІВЕНЬ 2" />
+  <Translate key="LEVEL 3" translate="РІВЕНЬ 3" />
+  <Translate key="LEVEL 4" translate="РІВЕНЬ 4" />
+  <Translate key="LEVEL 5" translate="РІВЕНЬ 5" />
+  <Translate key="LEVEL 6" translate="РІВЕНЬ 6" />
+  <Translate key="LEVEL 7" translate="РІВЕНЬ 7" />
+  <Translate key="LEVEL 8" translate="РІВЕНЬ 8" />
+  <Translate key="LEVEL 9" translate="РІВЕНЬ 9" />
+  <Translate key="LEVEL 10" translate="РІВЕНЬ 10" />
+  <Translate key="LEVEL 11" translate="РІВЕНЬ 11" />
+  <Translate key="LEVEL 12" translate="РІВЕНЬ 12" />
+  <Translate key="LEVEL 13" translate="РІВЕНЬ 13" />
+  <Translate key="LEVEL 14" translate="РІВЕНЬ 14" />
+  <Translate key="LEVEL 15" translate="РІВЕНЬ 15" />
+  <Translate key="LEVEL 16" translate="РІВЕНЬ 16" />
+  <Translate key="LEVEL 17" translate="РІВЕНЬ 17" />
+  <Translate key="LEVEL 18" translate="РІВЕНЬ 18" />
+  <Translate key="LEVEL 19" translate="РІВЕНЬ 19" />
+  <Translate key="LEVEL 20" translate="РІВЕНЬ 20" />
+  <Translate key="LEVEL 21" translate="РІВЕНЬ 21" />
+  <Translate key="LEVEL 22" translate="РІВЕНЬ 22" />
+  <Translate key="LEVEL 23" translate="РІВЕНЬ 23" />
+  <Translate key="LEVEL 24" translate="РІВЕНЬ 24" />
+  <Translate key="LEVEL 25" translate="РІВЕНЬ 25" />
+  <Translate key="LEVEL 26" translate="РІВЕНЬ 26" />
+  <Translate key="LEVEL 27" translate="РІВЕНЬ 27" />
+  <Translate key="LEVEL 28" translate="РІВЕНЬ 28" />
+  <Translate key="LEVEL 29" translate="РІВЕНЬ 29" />
+  <Translate key="LEVEL 30" translate="РІВЕНЬ 30" />
+  <Translate key="LEVEL 31" translate="РІВЕНЬ 31" />
+  <Translate key="LEVEL 32" translate="РІВЕНЬ 32" />
+  <Translate key="LEVEL 33" translate="РІВЕНЬ 33" />
+  <Translate key="LEVEL 34" translate="РІВЕНЬ 34" />
+  <Translate key="LEVEL 35" translate="РІВЕНЬ 35" />
+  <Translate key="LEVEL 36" translate="РІВЕНЬ 36" />
+  <Translate key="LEVEL 37" translate="РІВЕНЬ 37" />
+  <Translate key="LEVEL 38" translate="РІВЕНЬ 38" />
+  <Translate key="LEVEL 39" translate="РІВЕНЬ 39" />
+  <Translate key="LEVEL 40" translate="РІВЕНЬ 40" />
+  <Translate key="LEVEL 41" translate="РІВЕНЬ 41" />
+  <Translate key="LEVEL 42" translate="РІВЕНЬ 42" />
+  <Translate key="LEVEL 43" translate="РІВЕНЬ 43" />
+  <Translate key="LEVEL 44" translate="РІВЕНЬ 44" />
+  <Translate key="LEVEL 45" translate="РІВЕНЬ 45" />
+  <Translate key="LEVEL 46" translate="РІВЕНЬ 46" />
+  <Translate key="LEVEL 47" translate="РІВЕНЬ 47" />
+  <Translate key="LEVEL 48" translate="РІВЕНЬ 48" />
+  <Translate key="LEVEL 49" translate="РІВЕНЬ 49" />
+  <Translate key="LEVEL 50" translate="РІВЕНЬ 50" />
+  <Translate key="Tranq Gun" translate="Заспокійливий пістолет" />
+  <Translate key="Tranq Gun &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Заспокійливий пістолет &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Shotgun &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Дробовик &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Gun" translate="Пістолет" />
+  <Translate key="Gun &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Пістолет &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Human Grenade" translate="Людська граната" />
+  <Translate key="Human Grenade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Людська граната &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;E353" />
+  <Translate key="Sprint Speed Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Поліпшення швидкості бігу &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Sprint Speed Upgrade" translate="Поліпшення швидкості бігу" />
+  <Translate key="Extra Jump Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Поліпшення додаткового стрибка &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Extra Jump Upgrade" translate="Поліпшення додаткового стрибка" />
+  <Translate key="Tumble Launch Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Поліпшення падіння &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Tumble Launch Upgrade" translate="Поліпшення жбурляння" />
+  <Translate key="Strength Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Поліпшення сили &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Strength Upgrade" translate="Поліпшення сили" />
+  <Translate key="Stamina Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Поліпшення витривалості &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Stamina Upgrade" translate="Поліпшення витривалості" />
+  <Translate key="Range Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Поліпшення дальності &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Range Upgrade" translate="Поліпшення дальності" />
+  <Translate key="Health Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Поліпшення здоров’я &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Health Upgrade" translate="Поліпшення здоров'я" />
+  <Translate key="Baseball Bat" translate="Бейсбольна бита" />
+  <Translate key="Sledge Hammer" translate="Кувалда" />
+  <Translate key="Rubber Duck" translate="Гумова качка" />
+  <Translate key="DELETE SAVE?" translate="ВИДАЛИТИ ЗБЕРЕЖЕННЯ?" />
+  <Translate key="Are you REALLY SURE you want to delete this save FOREVER?" translate="Ви ДІЙСНО впевнені, що хочете видалити це збереження НАЗАВЖДИ?" />
+  <Translate key="Revive other players by extracting their heads!" translate="Відродіть інших гравців, витягнувши їхні голови!" />
+  <Translate key="Share your health with other players by grabbing their necks!" translate="Поділіться своїм здоров'ям з іншими гравцями, хапаючи їх за шию!" />
+  <Translate key="LAST LOSER STANDING" translate="БИТВА МІЖ НЕВДАХАМИ" />
+  <Translate key="EVERYONE'S A LOSER!" translate="ВСІ НЕВДАХИ!" />
+  <Translate key="Disconnected" translate="Відключено" />
+  <Translate key="Uh oh! No good for you!" translate="Йй ой! Нічого хорошого для тебе!" />
+  <Translate key="Cause: Exception" translate="Причина: Виняток" />
+  <Translate key="Cause: Host disconnected" translate="Причина: Хост відключений" />
+  <Translate key="Lobby Closed" translate="Лобі закрито" />
+  <Translate key="The lobby has closed." translate="Лобі було закрито." />
+  <Translate key="Duct Taped Grenades &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Гранати, обмотані скотчем &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Zero Gravity Orb" translate="Сфера нульової гравітації" />
+  <Translate key="DESTROYING SLACKERS" translate="ЗНИЩЕННЯ ЛЕДАРІВ" />
+  <Translate key="Duct Taped Grenades" translate="Гранати, обмотані скотчем" />
+  <Translate key="I" translate="Мені" />
+  <Translate key="need" translate="потрібно" />
+  <Translate key="to" translate="загнати" />
+  <Translate key="get" translate="вантажівку" />
+  <Translate key="the" translate="в..." />
+  <Translate key="truck" translate="" />
+  <Translate key="in..." translate="" />
+  <Translate key="SELF" translate="ПОСЛІДОВНІСТЬ" />
+  <Translate key="DESTRUCT" translate="САМОЗНИЩЕННЯ" />
+  <Translate key="SEQUENCE" translate="СКАСОВАНО!" />
+  <Translate key="CANCELLED!" translate="" />
+  <Translate key="SERVER LIST" translate="СПИСОК СЕРВЕРІВ" />
+  <Translate key="Connect to the friend" translate="Підключитися до друга" />
+  <Translate key="REFRESH LOBBIES" translate="ОНОВИТИ ЛОБІ" />
+  <Translate key="JOIN" translate="ПРИЄДНАТИСЯ" />
+  <Translate key="Save Changes" translate="Зберегти зміни" />
+  <Translate key="Unsaved Changes" translate="Незбережені зміни" />
+  <Translate key="You have unsaved changes, are you sure you want to exit?" translate="У вас є незбережені зміни, ви впевнені, що хочете вийти?" />
+  <Translate key="NONE" translate="НІЧОГО" />
+  <Translate key="STRENGTH&#xA;STAMINA&#xA;" translate="СИЛА&#xA;ВИТРИВАЛІСТЬ&#xA;" />
+  <Translate key="&lt;b&gt;Mission &gt; &lt;/b&gt;  Fill all extraction points with valuables&#xA;" translate="&lt;b&gt;Місія &gt; &lt;/b&gt;  Заповніть усі точки евакуації цінностями&#xA;" />
+  <Translate key="REPOLib is loading bundles... Hang tight!" translate="REPOLib завантажує пакети... Зачекайте!" />
+  <Translate key="WARNING" translate="УВАГА" />
+  <Translate key="While playing with random players you may come across hackers or really mean people..." translate="Під час гри з випадковими гравцями&#xA;&#xA;ви можете натрапити на хакерів або&#xA;&#xA;дуже неприємних людей..." />
+  <Translate key="No thanks :(" translate="Ні, дякую :(" />
+  <Translate key="Yes" translate="Так" />
+  <Translate key="No" translate="Ні" />
+  <Translate key="Haha yes!  :)" translate="Хаха, так!  :)" />
+  <Translate key="Not me...  :'(" translate="Не я...  :'(" />
+  <Translate key="UH OH!" translate="ОЙ-ОЙ!" />
+  <Translate key=":(" translate=":(" />
+  <Translate key="CORRUPTED SAVE FILE" translate="ПОШКОДЖЕНИЙ ФАЙЛ ЗБЕРЕЖЕННЯ" />
+  <Translate key="Sorry!" translate="Вибач!" />
+  <Translate key="Press &quot;Delete Save&quot; to delete &#xA;entire saves folder." translate="Натисніть &quot;Видалити збереження&quot;, щоб видалити &#xA;всю папку збережень." />
+  <Translate key="Player Expressions" translate="Вирази обличчя" />
+  <Translate key="Expression - Angry" translate="Злий" />
+  <Translate key="Expression - Sad&#xA;" translate="Сумний&#xA;" />
+  <Translate key="Expression - Suspicious" translate="Підозрілий" />
+  <Translate key="Expression - Eyes Closed" translate="Закриті очі" />
+  <Translate key="Expression - Crazy" translate="Божевільний" />
+  <Translate key="Expression - Happy&#xA;" translate="Щасливий&#xA;" />
+  <Translate key="REGIONS" translate="РЕГІОНИ" />
+  <Translate key="Pick Best Region" translate="Обрати найкращий регіон" />
+  <Translate key="EUROPE" translate="ЄВРОПА" />
+  <Translate key="Europe" translate="Європа" />
+  <Translate key="USA East" translate="Схід США" />
+  <Translate key="USA West" translate="Захід США" />
+  <Translate key="South Africa" translate="Південна Африка" />
+  <Translate key="Asia" translate="Азія" />
+  <Translate key="South America" translate="Південна Америка" />
+  <Translate key="Japan" translate="Японія" />
+  <Translate key="Australia" translate="Австралія" />
+  <Translate key="PUblic game" translate="Публічна гра" />
+  <Translate key="RANDOM MATCHMAKING" translate="ВИПАДКОВИЙ ПІДБІР ГРАВЦІВ" />
+  <Translate key="Yes!" translate="Так!" />
+  <Translate key="REDFIELD BUNKER" translate="БУНКЕР РЕДФІЛД" />
+  <Translate key="Trudge" translate="Сторож пекла" />
+  <Translate key="Rugrat" translate="Малюк" />
+  <Translate key="Shadow Child" translate="Дитя тіні" />
+  <Translate key="Trapzap" translate="Капкан" />
+  <Translate key="Trapzap &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Капкан &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="Duck Bucket" translate="Відро качки" />
+  <Translate key=" Duct Taped Grenades" translate=" Гранати на стрічці" />
+  <Translate key=" Duct Taped Grenades &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate=" Гранати на стрічці &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  
+  <Translate key="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;&lt;sprite name=road&gt;&lt;sprite name=!&gt;" translate="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;&lt;sprite name=road&gt;&lt;sprite name=!&gt;" />
+  <Translate key="Gnome" translate="Гном" />
+  <Translate key="THE AVANT-GARDE" translate="АВАНГАРД" />
+  <Translate key="Gusher" translate="Фонтанчик" />
+  <Translate key="Lost droid" translate="Загублений дроїд" />
+  <Translate key="Apex Predator" translate="Каченя" />
+  <Translate key="Upscream" translate="Крикун" />
+  <Translate key="Clown" translate="Клоун" />
+  <Translate key="Soldier Ghost" translate="Привид-солдат" />
+  <Translate key="Mentalist" translate="Менталіст" />
+  <Translate key="Headman" translate="Голова" />
+  <Translate key="Spewer" translate="Ригачка" />
+  <Translate key="Huntsman" translate="Охоронець АТБ" />
+  <Translate key="Hidden" translate="Привид" />
+  <Translate key="Reaper" translate="Жниця" />
+  <Translate key="Animal" translate="Тварина" />
+  <Translate key="Robe" translate="Халат" />
+  <Translate key="Banger" translate="Підривник" />
+  <Translate key="Bowtie" translate="Метелик" />
+  <Translate key="Tumbler" translate="Шеф-кухар" />
+  <Translate key="Chef" translate="Шеф-кухар" />
+</ArrayOfTranslate>
