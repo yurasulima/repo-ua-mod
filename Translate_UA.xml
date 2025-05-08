@@ -42,8 +42,8 @@
   <Translate key="push" translate="штовхати" />
   <Translate key="pull" translate="тягнути" />
   <Translate key="OTHER" translate="ІНШЕ" />
-  <Translate key="map&#xA;" translate="мапа" />
-  <Translate key="interact&#xA;" translate="взаємодія" />
+  <Translate key="map&#xA;" translate="мапа&#xA;" />
+  <Translate key="interact&#xA;" translate="взаємодія&#xA;" />
   <Translate key="INTERACT" translate="ВЗАЄМОДІЯ" />
   <Translate key="inventory 3" translate="місце 3" />
   <Translate key="inventory 2" translate="місце 2" />
@@ -52,15 +52,13 @@
   <Translate key="CONFIRM" translate="ПІДТВЕРДИТИ" />
   <Translate key="BACK" translate="НАЗАД" />
   <Translate key="MENU" translate="МЕНЮ" />
-  <Translate key="confirm&#xA;" translate="підтвердити" />
-  <Translate key="back&#xA;" translate="назад" />
-  <Translate key="menu&#xA;" translate="меню" />
+  <Translate key="confirm&#xA;" translate="підтвердити&#xA;" />
+  <Translate key="back&#xA;" translate="назад&#xA;" />
+  <Translate key="menu&#xA;" translate="меню&#xA;" />
   <Translate key="spectate next" translate="Наступний" />
   <Translate key="spectate previous" translate="Попередній" />
   <Translate key="push to talk" translate="Натисни та кажи" />
   <Translate key="Master volume" translate="Загальна" />
-  <Translate key="&lt;" translate="&lt;" />
-  <Translate key="&gt;" translate="&gt;" />
   <Translate key="music volume" translate="музика" />
   <Translate key="sound effects volume" translate="звукові ефекти" />
   <Translate key="proximity voice volume" translate="голос поблизу" />
@@ -121,9 +119,7 @@
   <Translate key="Proximity Voice Volume" translate="Гучн. голосу поруч" />
   <Translate key="Text to Speech Volume" translate="Текст у мову" />
   <Translate key="Microphone" translate="Мікрофон" />
-  <Translate key="Микрофон (Realte..." translate="Мікрофон (Realte..." />
   <Translate key="Microphone Volume" translate="Мікрофон" />
-  <Translate key="Микрофон (Realtek High Definition Audio)" translate="Мікрофон (Realtek High Definition Audio)" />
   <Translate key="Fullscreen" translate="Повний екран" />
   <Translate key="Unlimited" translate="Необмежено" />
   <Translate key="Very High" translate="Дуже висока" />
@@ -133,7 +129,6 @@
   <Translate key="Start a new game?" translate="Почати нову гру?" />
   <Translate key="Do you want to start a game?" translate="Ви хочете почати гру?" />
   <Translate key="KING OF THE LOSERS!" translate="КОРОЛЬ НЕВДАХ!" />
-  <Translate key="&lt;sprite name=:)&gt;" translate="&lt;sprite name=:)&gt;" />
   <Translate key="CHAT:" translate="ЧАТ:" />
   <Translate key="EXTRACTION POINT ACTIVATED" translate="ТОЧКА&#xA;&#xA;ЗБОРУ&#xA;&#xA;АКТИВОВАНА" />
   <Translate key="Use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; to move" translate="Використовуй &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; для руху" />
@@ -144,20 +139,17 @@
   <Translate key="LAST LOSER STANDING!" translate="БИТВА МІЖ НЕВДАХАМИ" />
   <Translate key="&lt;b&gt;Mission &gt; &lt;/b&gt;  Fill all extraction points with valuables" translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;  Заповніть всі точки збору цінностями" />
   <Translate key="SWORD" translate="МЕЧ" />
-  <Translate key="POWER MODE: WEAK" translate="POWER MODE: СЛАБИЙ" />
+  <Translate key="POWER MODE: WEAK" translate="Режим живлення: слабкий" />
   <Translate key="READY" translate="ГОТОВИЙ" />
   <Translate key="MCJANNEK STATION" translate="СТАНЦІЯ МАКДЖАННЕК" />
-  <Translate key="&lt;sprite name=message_arrow&gt;" translate="&lt;sprite name=message_arrow&gt;" />
-  <Translate key="&lt;sprite name=message&gt;" translate="&lt;sprite name=message&gt;" />
   <Translate key="Change color" translate="Змінити колір" />
   <Translate key="Menu" translate="Меню" />
   <Translate key="Continue" translate="Продовжити" />
-  <Translate key="Self Destruct" translate="Вмерти?" />
+  <Translate key="Self Destruct" translate="Померти" />
   <Translate key="Main Menu" translate="Головне Меню" />
   <Translate key="■" translate="■" />
-  <Translate key="select color" translate="виберіть колір" />
+  <Translate key="select color" translate="Виберіть колір" />
   <Translate key="Confirm" translate="Підтвердити" />
-  <Translate key="&lt;sprite name=!&gt;" translate="&lt;sprite name=!&gt;" />
   <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Fill the extraction point with valuables" translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Заповніть точку цінностями" />
   <Translate key="ACTIVE" translate="АКТИВНО" />
   <Translate key="C.A.R.T." translate="ВІЗОК" />
@@ -170,19 +162,12 @@
   <Translate key="&lt;sprite name=check&gt;" translate="&lt;sprite name=check&gt;" />
   <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Get back to the truck!" translate="&lt;b&gt;УВАГА &gt; &lt;/b&gt;Поверніться у фургон!" />
   <Translate key="COMPLETED" translate="ЗАВЕРШЕНО" />
-  <Translate key="&lt;sprite name=truck&gt;" translate="&lt;sprite name=truck&gt;" />
-  <Translate key="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;" translate="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;" />
-  <Translate key="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;&lt;sprite name=road&gt;" translate="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;&lt;sprite name=road&gt;" />
-  <Translate key="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;&lt;sprite name=road&gt;&lt;sprite name=?&gt;" translate="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;&lt;sprite name=road&gt;&lt;sprite name=?&gt;" />
   <Translate key="STARTING ENGINE" translate="ЗАВОДИМОСЯ" />
   <Translate key="SHOP" translate="МАГАЗИН" />
   <Translate key="SERVICE STATION" translate="СЕРВІСНА СТАНЦІЯ" />
-  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Buy stuff in the shop" translate="&lt;b&gt;УВАГА &gt; &lt;/b&gt;Купить щось у магазині" />
-  <Translate key="TAX$$$$$$" translate="TAX$$$$$$" />
-  <Translate key="$TAXTAX$$" translate="$TAXTAX$$" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Buy stuff in the shop" translate="&lt;b&gt;УВАГА &gt; &lt;/b&gt;Купи щось у магазині" />
   <Translate key="Inflatable Hammer" translate="Надувний молоток" />
   <Translate key="Grenade" translate="Граната" />
-  <Translate key="$$$$TAX$$" translate="$$$$TAX$$" />
   <Translate key="Stun Grenade" translate="Оглушальна граната" />
   <Translate key="Energy Crystal" translate="Енергетичний кристал" />
   <Translate key="POCKET C.A.R.T." translate="МАЛЕНЬКИЙ ВІЗОК" />
@@ -190,29 +175,27 @@
   <Translate key="Map Player Count Upgrade &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Поліпшення карти - показує живих гравців &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
   <Translate key="Shotgun" translate="Дробовик" />
   <Translate key="Use &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; to sneak under stuff and hide." translate="Використовуй &lt;u&gt;&lt;b&gt;CONTROL&lt;/b&gt;&lt;/u&gt; щоб сховатись під об'єктами." />
-  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Enjoy the ride, recharge stuff and GEAR UP!" translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Насолоджуйтесь поїздкою, заряджайте та ПРИГОТУЙТЕСЯ!" />
+  <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Enjoy the ride, recharge stuff and GEAR UP!" translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Насолоджуйтесь поїздкою,&#xA;&#xA; заряджайте та ПРИГОТУЙТЕСЯ!" />
   <Translate key="Exit to main menu?" translate="Вийти у головне меню?" />
   <Translate key="R.E.P.O." translate="R.E.P.O." />
-  <Translate key="Multiplayer mode" translate="Многокористувацька гра" />
+  <Translate key="Multiplayer mode" translate="Багатокористувацька гра" />
   <Translate key="High" translate="Висока" />
   <Translate key="Medium" translate="Середня" />
   <Translate key="Very Low" translate="Дуже низька" />
-  <Translate key="DELETE SAVE" translate="ВИДАЛИТИ ЗБЕРЕЖЕННЯ" />
-  <Translate key="LOAD SAVE" translate="ЗАВАНТАЖИТИ ЗБЕРЕЖЕННЯ" />
+  <Translate key="DELETE SAVE" translate="ВИДАЛИТИ" />
+  <Translate key="LOAD SAVE" translate="Грати" />
   <Translate key="Team semibeeeeeeeeeeeeeeeeeeeeeots" translate="Team semibeeeeeeeeeeeeeeeeeeeeeots" />
   <Translate key="Load save?" translate="Завантажити збереження?" />
   <Translate key="Load this save file?" translate="Завантажити це збереження?" />
   <Translate key="SWIFTBROOM ACADEMY" translate="АКАДЕМІЯ СВІФБРУМА" />
-  <Translate key="LOCKED" translate="ЗАБЛОКОВАНО" />
-  <Translate key="TAX$$TAX$" translate="TAX$$TAX$" />
-  <Translate key="TAXTAX$$$" translate="TAXTAX$$$" />
+  <Translate key="LOCKED" translate="ОЧІКУЄМО" />
   <Translate key="Off" translate="Вимк" />
   <Translate key="GAME OVER" translate="ГРА ЗАКІНЧЕНА" />
   <Translate key="DISPOSAL ARENA" translate="АРЕНА УТИЛІЗАЦІЇ" />
   <Translate key="Use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; to move." translate="Використовуй &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt;щоб рухатись." />
   <Translate key="Use &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; on your keyboard until the progress bar is filled!" translate="Використовуй &lt;u&gt;&lt;b&gt;WASD&lt;/b&gt;&lt;/u&gt; поки смуга прогресу не заповниться!" />
   <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Move to fill the progress bar" translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Рухайся,&#xA;&#xA;щоб заповнити смугу прогресу." />
-  <Translate key="Good job! &lt;sprite name=creepycrying&gt;" translate="Хороша робота! &lt;sprite name=creepycrying&gt;" />
+  <Translate key="Good job! &lt;sprite name=creepycrying&gt;" translate="Гарна робота! &lt;sprite name=creepycrying&gt;" />
   <Translate key="Press &lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt; to do jumps until the progress bar is filled!" translate="Використовуй &lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt; поки смуга прогресу не заповниться!" />
   <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Jump to fill the progress bar" translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Стрибай,&#xA;&#xA;щоб заповнити смугу прогресу." />
   <Translate key="Press &lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt; to jump." translate="Натисни &lt;u&gt;&lt;b&gt;SPACE&lt;/b&gt;&lt;/u&gt; для стрибка." />
@@ -266,9 +249,6 @@
   <Translate key="HELLO! FILL THE &lt;b&gt;&lt;u&gt;EXTRACTION POINT&lt;/b&gt;&lt;/u&gt; WITH VALUABLES!" translate="Здоров! Заповни &lt;b&gt;&lt;u&gt;точку евакуації&lt;/b&gt;&lt;/u&gt; цінними предметами" />
   <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Extract the valuables." translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Вивези цінні предмети,&#xA;&#xA;щоб заповнити смугу прогресу." />
   <Translate key="Activate and fill &lt;b&gt;&lt;u&gt;Extraction Points&lt;/b&gt;&lt;/u&gt; with valuables." translate="Активуй та заповни &lt;b&gt;&lt;u&gt;точку евакуації&lt;/b&gt;&lt;/u&gt; цінними предметами" />
-  <Translate key="$TAX$TAX$" translate="$TAX$TAX$" />
-  <Translate key="TAX$TAX$$" translate="TAX$TAX$$" />
-  <Translate key="$$TAXTAX$" translate="$$TAXTAX$" />
   <Translate key="Walk into the truck, grab (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) and hold the message area on the truck screen to send a message!" translate="Зайдіть у вантажівку, використай (&lt;u&gt;&lt;b&gt;MOUSE LEFT&lt;/b&gt;&lt;/u&gt;) та утримуй область&#xA;&#xA;повідомлень на екрані вантажівки, щоб відправити повідомлення!" />
   <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Get into the truck and send a message." translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Сядь у вантажівку&#xA;&#xA; та відправ повідомлення." />
   <Translate key="Enter the &lt;b&gt;&lt;u&gt;truck&lt;/b&gt;&lt;/u&gt; and send a message to your boss in order to leave a level." translate="Зайдіть у &lt;b&gt;&lt;u&gt;вантажівку&lt;/b&gt;&lt;/u&gt; та відправте повідомлення своєму босу, щоб покинути рівень." />
@@ -289,7 +269,6 @@
   <Translate key="Everyone ready?&#xA;&#xA;Once the game is started&#xA;new players can not join." translate="Усі готові?&#xA;&#xA;Після початку гри&#xA;&#xA;нові гравці не зможуть приєднатися." />
   <Translate key="HEADMAN MANOR" translate="САДИБА ГЕТЬМАНА" />
   <Translate key="Donk E Kong" translate="Донк Е Конг" />
-  <Translate key="HEALTH&#xA;STAMINA&#xA;LAUNCH&#xA;SPEED&#xA;RANGE" translate="Здоров'я&#xA;Витривалість&#xA;Жбурляння&#xA;Швидкість&#xA;Дальність" />
   <Translate key="&lt;b&gt;FOCUS &gt; &lt;/b&gt;Find the next extraction point" translate="&lt;b&gt;МЕТА &gt; &lt;/b&gt;Знайди наступну точку збору" />
   <Translate key="HEALTH" translate="Здоров'я" />
   <Translate key="HEALTH&#xA;STAMINA" translate="Здоров'я&#xA;Витривалість" />
@@ -486,8 +465,6 @@
   <Translate key="Duck Bucket" translate="Відро качки" />
   <Translate key=" Duct Taped Grenades" translate=" Гранати на стрічці" />
   <Translate key=" Duct Taped Grenades &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate=" Гранати на стрічці &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
-  
-  <Translate key="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;&lt;sprite name=road&gt;&lt;sprite name=!&gt;" translate="&lt;sprite name=truck&gt;&lt;sprite name=arrowright&gt;&lt;sprite name=road&gt;&lt;sprite name=!&gt;" />
   <Translate key="Gnome" translate="Гном" />
   <Translate key="THE AVANT-GARDE" translate="АВАНГАРД" />
   <Translate key="Gusher" translate="Фонтанчик" />
@@ -508,4 +485,15 @@
   <Translate key="Bowtie" translate="Метелик" />
   <Translate key="Tumbler" translate="Шеф-кухар" />
   <Translate key="Chef" translate="Шеф-кухар" />
+  <Translate key="PASSWORD" translate="ПАРОЛЬ" />
+  <Translate key="SKIP" translate="Пропуск" />
+  <Translate key="No wait!" translate="Почекати!" />
+  <Translate key="Head Charge Upgrade" translate=" Гранати на стрічці" />
+  <Translate key="Покращення удару головою &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" translate="Покращення удару головою &lt;color=#FFFFFF&gt;[&lt;u&gt;&lt;b&gt;E&lt;/b&gt;&lt;/u&gt;]&lt;/color&gt;" />
+  <Translate key="&lt;sprite name=!&gt;" translate="&lt;sprite name=!&gt;" />
+  <Translate key="OK" translate="OK" />
+  <Translate key="Uh oh! No good for you!&#xA;" translate="Ой-ой! Це тобі не піде на користь!&#xA;" />
+  <Translate key="&lt;b&gt;Cause:&#xA;&lt;/b&gt;ClientTimeout" translate="&lt;b&gt;Причина:&#xA;&#xA;&lt;/b&gt;У тебе поганий інтернет" />
+  <Translate key="Ok Dang" translate="Добре" />
+  <Translate key="Mods" translate="Моди" />
 </ArrayOfTranslate>
