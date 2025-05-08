@@ -3,8 +3,8 @@
   <Translate key="Private Game" translate="Приватна Гра" />
   <Translate key="Public Game" translate="Публічна Гра" />
   <Translate key="join friend" translate="Гра з друзями" />
-  <Translate key="I understand" translate="Пачув" />
-  <Translate key="Warning" translate="Попердження" />
+  <Translate key="I understand" translate="Зрозумів" />
+  <Translate key="Warning" translate="Попередження" />
   <Translate key="While playing with random players you&#xA;&#xA;may come across hackers or really&#xA;&#xA;mean people..." translate="Попердження" />
   <Translate key="HAHA YES! :)" translate="Хаха так! :)" />
   <Translate key="haha yes! :)" translate="Хаха так! :)" />
@@ -67,8 +67,8 @@
   <Translate key="device name" translate="назва пристрою" />
   <Translate key="Microphone volume" translate="Мікрофон" />
   <Translate key="Push to Talk" translate="Натисни та кажи" />
-  <Translate key="ON" translate="УВІМК" />
-  <Translate key="OFF" translate="ВИМК" />
+  <Translate key="ON" translate="Вкл" />
+  <Translate key="OFF" translate="Викл" />
   <Translate key="Window Mode" translate="Режим вікна" />
   <Translate key="Windowed" translate="У вікні" />
   <Translate key="Vsync" translate="V-sync" />
